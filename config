@@ -1,0 +1,16 @@
+# setting a color scheme
+background = 000000
+background-opacity = 0.9
+
+# setting a font scheme
+font-size = 14 
+font-family = "JetBrains Mono"
+
+# terminal configurations
+cursor-style = block
+
+# theme
+theme = LiquidCarbonTransparent
+
+# custom shaders
+custom-shader = /Users/zaraseshadri/.config/ghostty/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix.glsl
